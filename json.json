@@ -1,6 +1,7 @@
+#实际使用请删除#之间的内容#
 [
 	{
-		"method":"direct",//普通模式
+		"method":"direct",#普通模式#
 		"filename":"fabric-api-0.46.1+1.18.jar",
 		"download":"..."
 	},
@@ -10,9 +11,9 @@
 		"download":"..."
 	},
 	{
-        "method":"curseforge",//从curseforge下载
-        "filename":"....jar",//下载下来的文件名
-        "modid":"...",//modid如580090
-        "modname":"..."//文件名，如zdgx7（是Name不是Filename）
+        "method":"curseforge",#从curseforge下载#
+        "filename":"....jar",#下载下来的文件名#
+        "modid":"...",#modid如580090#
+        "modname":"..."#文件名，如zdgx7（是Name不是Filename）#
     	}
 ]
